@@ -17,4 +17,16 @@ Here are some ideas to get you started:
 
 _Remote Software developer ready for adventure_ 💻
 
-![](https://www.canva.com/design/DAFCppRTnOs/L6OmwxujTw7FvRlWsnehnQ/watch?utm_content=DAFCppRTnOs&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)  ![]()
+[![GiHub Visit](./git.png)]()
+
+
+### Get To Know A litte about me
+
+I believe in the power of collaboration and the time invested into achieving something. 
+I spend most of my time honing my software development skills and exploring different ways 
+I can improve both my technical and soft skills.
+
+I've learned to code using different languages and frameworks like, Python, Django, Kivy, Android, 
+Angular, JavaScript. I'm currently enrolled in Microverse Program where I'm learning about web development 
+using powerful tools like GitHub, JavaScript, Ruby on rails, React all by creating project and 
+collaborating with fellow Micronauts.
