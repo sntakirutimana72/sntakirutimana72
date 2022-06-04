@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 _Remote Software developer ready for adventure_ 💻
 
-[![GiHub Visit](./git.png)]()
+[![GiHub Visit](./git.png)](../../../)
 
 
 ### Get To Know A litte about me
+#
 
 I believe in the power of collaboration and the time invested into achieving something. 
 I spend most of my time honing my software development skills and exploring different ways 
