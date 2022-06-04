@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sntakirutimana72/sntakirutimana72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there! I'm Steven Ntakirutimana 🤗
+
+_Remote Software developer ready for adventure_ 💻
+
+![](https://www.canva.com/design/DAFCppRTnOs/L6OmwxujTw7FvRlWsnehnQ/watch?utm_content=DAFCppRTnOs&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)  ![]()
