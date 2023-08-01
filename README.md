@@ -34,7 +34,7 @@ I can improve both my technical and soft skills.
 - 💡Tips:
     ```python
         from os import environ
-        froma argparse import ArgumentParser
+        from argparse import ArgumentParser
         
         base = {'theme': 'auto'}
     
@@ -45,7 +45,7 @@ I can improve both my technical and soft skills.
         ns = parser.parse_args()
         cli_args = {k: v for k, v in vars(ns).items() if v is not None}
         
-        working_scope = ChainMap(cli_args, environ, base)
+        working_scope = ChainMap(cli_args, base, environ)
         # or
         # working_scope = environ | base | cli_args
         #
@@ -67,7 +67,7 @@ I can improve both my technical and soft skills.
 
 ----
 
-[![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=sntakirutimana72&count_private=true&show_icons=true&title_color=ee4f51&icon_color=e8f5a5&text_color=f0f0f0&bg_color=1f1f1f&border_color=333333)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sntakirutimana72&ring=ee4f51&sideNums=ff8&stroke=444&border=333333&background=1f1f1f&sideLabels=0cffd2&dates=eee&fire=f86908&currStreakLabel=222&currStreakNum=0cffd2&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=sntakirutimana72&count_private=true&show_icons=true&title_color=ee4f51&icon_color=e8f5a5&text_color=f0f0f0&bg_color=111&border_color=333333)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sntakirutimana72&ring=ee4f51&sideNums=ff5&stroke=444&border=333333&background=111&sideLabels=0cffd2&dates=eee&fire=ff3010&currStreakNum=0f9&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br>
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sntakirutimana72&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
