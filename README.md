@@ -13,35 +13,53 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there! I'm Steven 🤗
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sntakirutimana72@gmail.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/steve-ntakirutimana)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
+# Hi there! I'm Steven 🤗
 
-<p align="center">
-  <img alt="bio" src="./bio-banner.png" width="1280px" height="auto">
-</p>
+<img alt="Banner" src="./banner.png" />
 
 In collaboration, we find success and efficiency. 
 I spend most of my time honing my software development skills and exploring different ways 
 I can improve both my technical and soft skills.
 
-I learned to code using different languages and frameworks like, Python, Django, Kivy, Android, 
-Angular, JavaScript. I'm currently enrolled in Microverse Program where I'm learning about web development 
-using powerful tools like GitHub, JavaScript, Ruby on rails, React all by creating project and 
-collaborating with fellow Micronauts.
+- 🔭 I’m currently working on a cross-platform (`react`, `python-kivy`, `ruby-on-rails`) chat application, called `bluech`.
+- 🌱 I’m currently learning `Docker` & `K8S`.
+- 👯 I’m current looking for open-source projects to collaborate on, mainly, `GitHub` & `Canonical`.
+- 🤔 I’m looking for help with a **`social/community`** project am planning to start soon.
+- 💬 Ask me about **`Football`** & **`Basketball`** mainly.
+- 😄 Pronouns: Call me **`Steve`**
+- ⚡ Fun fact: Oh Gosh! How I love lemon cake!! 🍰🤗
 
-<p>
-  <a href="https://www.facebook.com/ntakirutimanas/" target="_blank" rel="noopener">
-    <img alt="Facebook" src="./facebook.png" width="60">
-  </a>
-  <a href="https://twitter.com/nsteve72" target="_blank" rel="noopener">
-    <img alt="Twitter" src="./twitter.png" width="60">
-  </a>
-  <a href="https://www.linkedin.com/in/steven-ntakirutimana-b29bb119b/" target="_blank" rel="noopener">
-    <img alt="Linkedin" src="./linkedin.png" width="60">
-  </a>
-</p>
+```python
+    import os
+    import argparse
+    
+    base = {'theme': 'auto'}
 
-[![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=sntakirutimana72&count_private=true&show_icons=true&title_color=ff1493&icon_color=9457eb&text_color=0CFFD2&bg_color=05061D&border_color=ff1493)](https://github.com/anuraghazra/github-readme-stats)        [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sntakirutimana72&ring=ff1493&sideNums=ff1493&stroke=0CFFD2&border=ff1493&background=05061d&sideLabels=0cffd2&dates=9457eb&fire=9457eb&currStreakLabel=0cffd2&currStreakNum=0cffd2&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-t', '--token')
+    parser.add_argument('-db', '--database-url')
+    
+    ns = parser.parse_args()
+    cli_args = {k: v for k, v in vars(ns).items() if v is not None}
+    
+    working_scope = ChainMap(cli_args, os.environ, base)
+```
 
+
+## Technical Skills
+
+![Tools](https://skillicons.dev/icons?i=css,tailwind,html,react,rails,nodejs,django,postgres,js,ts,ruby,py)
+
+## Tools & Methodologies
+
+![Tools](https://skillicons.dev/icons?i=git,github,jest,selenium,postman,vscode,...)
+
+
+
+[![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=sntakirutimana72&count_private=true&show_icons=true&title_color=ee4f51&icon_color=e8f5a5&text_color=f0f0f0&bg_color=1f1f1f&border_color=333333)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sntakirutimana72&ring=ee4f51&sideNums=ff8&stroke=444&border=333333&background=1f1f1f&sideLabels=0cffd2&dates=eee&fire=f86908&currStreakLabel=222&currStreakNum=0cffd2&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sntakirutimana72&layout=compact&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sntakirutimana72&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
